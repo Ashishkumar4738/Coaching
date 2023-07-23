@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+a{
+    color: black !important;
+}
+p span{
+    color: yellow;
+    font-weight: bolder;
+}
+body{
+    background-color: rgb(154, 249, 228);
+}
